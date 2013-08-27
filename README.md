@@ -15,3 +15,6 @@ I never planned to release this code, so there is no documentation or anything e
 
 That’s it, enjoy!
 
+## Want to see (the Twitter part) in action? 
+
+Check [Printing Tweets :)](http://www.youtube.com/watch?v=eaai5VGQuRA&hd=1) on YouTube.
